@@ -1,0 +1,23 @@
+
+Git and GitHub works or should i say the concept. There are step on what is the concept or the proces in order to contribute a project on your GitHub account.
+fork a project on github, when you do this you will be able to make a project on your account, clone your github fork to your computer cloning is like syncing your github account, 
+create a topic branch for your own work in your local clone a branch represents an independent line of development. Branches serve as an abstraction for the edit, stage, commit process. You can think of them as a way to request a brand new working directory, staging area, and project history.
+commit changes to your local repository, in committing changes to the local repository, update your local repo from the central repo so that you can make edit or save and others.
+push the changes to your github fork,
+send a pull request back to the original project, and lastly
+get a warm fuzzy feeling inside for contributing to open source.
+It says that this is the basic things that need to understand. When you understand this step you will be familiarize to GitHub and you will understand the concept easier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
